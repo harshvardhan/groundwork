@@ -1,0 +1,23 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Output Directories
+**/dependency_analysis_*/
+**/*_[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]_[0-9][0-9][0-9][0-9][0-9][0-9].txt
+
+# Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary Files
+*.tmp
+*.temp
+/temp/
+/tmp/
+
+# Log Files
+*.log
+/logs/
